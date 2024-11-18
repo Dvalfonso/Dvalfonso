@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hola, soy David 👋
 
-<!--
-**Dvalfonso/Dvalfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **desarrollador de software** apasionado por la programación y el código abierto. Me encanta resolver problemas complejos y aprender nuevas tecnologías. Actualmente estoy trabajando en proyectos relacionados con **backend** usando **Java**, **Spring Boot**, y también explorando nuevas tecnologías para el frontend.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que domino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes**: Java, JavaScript, Lua
+- **Frameworks**: Spring Boot, Hibernate, love2d
+- **Bases de Datos**: PostgreSQL, MySQL
+- **Herramientas**: Docker, Git, Maven, Gradle
+- **Otros**: JWT, OAuth2, REST APIs
+
+## 🧑‍💻 Proyectos Destacados
+
+### [Api-Weather](https://github.com/dvalfonso/API-Weather)
+Un servicio que consulta la API de OpenWeather para obtener las condiciones meteorológicas en tiempo real, implementado con **Spring Boot** y **RestTemplate**.
+
+### [practica-9-Dvalfonso](https://github.com/dvalfonso/Browser)
+Un pequeño browser y webscraper desarrollado con **Spring Boot**.
+
+## 🌱 Actualmente Aprendiendo
+
+- Mejorar mis habilidades en **Desarrollo Frontend** con **React**
+- Profundizando en **Microservicios** y **Arquitectura basada en Eventos**.
+
+## 📢 Conecta conmigo
+
+- **LinkedIn**: [David Alfonso](https://www.linkedin.com/in/david-alfonso-080b56121/)
+- **Correo**: [davidalfonsook@gmail.com](davidalfonsook@gmail.com)
+
+## 🔥 Mi gráfica de contribuciones
+
+![Gráfica de contribuciones](https://github-readme-stats.vercel.app/api?username=dvalfonso&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
