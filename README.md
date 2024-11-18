@@ -4,10 +4,10 @@ Soy un **desarrollador de software** apasionado por la programación y el códig
 
 ## 🚀 Tecnologías que domino
 
-- **Lenguajes**: Java, JavaScript, Lua
+- **Lenguajes**: Java, JavaScript, Lua, Haskell, C
 - **Frameworks**: Spring Boot, Hibernate, love2d
 - **Bases de Datos**: PostgreSQL, MySQL
-- **Herramientas**: Docker, Git, Maven, Gradle
+- **Herramientas**: Git, Maven, Gradle
 - **Otros**: JWT, OAuth2, REST APIs
 
 ## 🧑‍💻 Proyectos Destacados
