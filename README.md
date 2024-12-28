@@ -15,7 +15,7 @@ Soy un **desarrollador de software** apasionado por la programación y el códig
 ### [Api-Weather](https://github.com/dvalfonso/API-Weather)
 Un servicio que consulta la API de OpenWeather para obtener las condiciones meteorológicas en tiempo real, implementado con **Spring Boot** y **RestTemplate**.
 
-### [practica-9-Dvalfonso](https://github.com/dvalfonso/Browser)
+### [Browser](https://github.com/dvalfonso/Browser)
 Un pequeño browser y webscraper desarrollado con **Spring Boot**.
 
 ## 🌱 Actualmente Aprendiendo
