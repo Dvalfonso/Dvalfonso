@@ -28,8 +28,4 @@ Un pequeño browser y webscraper desarrollado con **Spring Boot**.
 - **LinkedIn**: [David Alfonso](https://www.linkedin.com/in/david-alfonso-080b56121/)
 - **Correo**: [davidalfonsook@gmail.com](davidalfonsook@gmail.com)
 
-## 🔥 Mi gráfica de contribuciones
-
-![Gráfica de contribuciones](https://github-readme-stats.vercel.app/api?username=dvalfonso&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ---
