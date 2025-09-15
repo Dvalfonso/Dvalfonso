@@ -11,9 +11,11 @@ Soy un **desarrollador de software** apasionado por la programación y el códig
 - **Otros**: JWT, OAuth2, REST APIs, **Machine Learning** (TensorFlow, Pandas, NumPy, scikit-learn)
 
 ## 🧑‍💻 Proyectos Destacados
+### [Machine Learning Galaxies Classifier](https://github.com/Proyecto-2025/Machine_Learning_Galaxyes_Classifier_Project)
+Contribui en el desarroyo de un clasificador de galaxias que utiliza técnicas de **Machine Learning**. El proyecto incluye un modelo entrenado con datos de Galaxy zoo, una API backend en **Python** y una interfaz frontend con **REACT**. Implementado como parte de un proyecto académico grupal para la materia proyecto en la **Universidad Nacional de Río Cuarto**.
 
 ### [Api-Weather](https://github.com/dvalfonso/API-Weather)
-Un servicio que consulta la API de OpenWeather para obtener las condiciones meteorológicas en tiempo real, implementado con **Spring Boot** y **RestTemplate**.
+Desarrolle un servicio que consulta la API de OpenWeather para obtener las condiciones meteorológicas en tiempo real, implementado con **Spring Boot** y **RestTemplate**.
 
 ### [Browser](https://github.com/dvalfonso/Browser)
 Un pequeño browser y webscraper desarrollado con **Spring Boot**.
