@@ -1,11 +1,11 @@
 # Hola, soy David 👋
 
-Soy un **desarrollador de software** apasionado por la programación y el código abierto. Me encanta resolver problemas complejos y aprender nuevas tecnologías. Actualmente estoy trabajando en proyectos relacionados con **backend** usando **ASP.NET Core**, **Blazor**, y también explorando nuevas tecnologías como **Machine Learning**.
+Soy un **desarrollador de software** apasionado por la programación y el código abierto. Me encanta resolver problemas complejos y aprender nuevas tecnologías. Actualmente estoy trabajando en proyectos relacionados con **backend** usando **Kotlin**, **Ktor**, **Exposed**, y también explorando nuevas tecnologías como **Machine Learning**.
 
 ## 🚀 Tecnologías que domino
 
-- **Lenguajes**: C#, Python, Java, JavaScript, Lua, Haskell, C
-- **Frameworks**: ASP.NET Core (Blazor), Spring Boot, Hibernate, Love2D
+- **Lenguajes**: Kotlin, Python, Java, JavaScript, Haskell, C
+- **Frameworks**: Ktor, Spring Boot, Flask, Hibernate, Love2D
 - **Bases de Datos**: PostgreSQL, MySQL, SQLite3
 - **Herramientas**: Git, Maven, Gradle
 - **Otros**: JWT, OAuth2, REST APIs, **Machine Learning** (TensorFlow, Pandas, NumPy, scikit-learn)
