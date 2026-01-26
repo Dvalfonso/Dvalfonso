@@ -1,13 +1,13 @@
 # Hola, soy David 👋
 
-Soy un **desarrollador de software** apasionado por la programación y el código abierto. Me encanta resolver problemas complejos y aprender nuevas tecnologías. Actualmente estoy trabajando en proyectos relacionados con **backend** usando **Kotlin**, **Ktor**, **Exposed**, y también explorando nuevas tecnologías como **Machine Learning**.
+Soy un **desarrollador de software** apasionado por la programación y el código abierto. Me encanta resolver problemas complejos y aprender nuevas tecnologías. Actualmente estoy trabajando en proyectos relacionados con **backend** usando **SPRINGBOOT**, **KAFKA**, **DOCKER**, y también explorando nuevas tecnologías como **Machine Learning**.
 
 ## 🚀 Tecnologías que domino
 
-- **Lenguajes**: Kotlin, Python, Java, JavaScript, Haskell, C
-- **Frameworks**: Ktor, Spring Boot, Flask, Hibernate, Love2D
+- **Lenguajes**: Python, Java, JavaScript, Haskell, C
+- **Frameworks**: Spring Boot, Flask
 - **Bases de Datos**: PostgreSQL, MySQL, SQLite3
-- **Herramientas**: Git, Maven, Gradle
+- **Herramientas**: Git, Maven, Gradle, Docker
 - **Otros**: JWT, OAuth2, REST APIs, **Machine Learning** (TensorFlow, Pandas, NumPy, scikit-learn)
 
 ## 🧑‍💻 Proyectos Destacados
@@ -22,7 +22,7 @@ Un pequeño browser y webscraper desarrollado con **Spring Boot**.
 
 ## 🌱 Actualmente Aprendiendo
 
-- Mejorar mis habilidades en **Desarrollo Frontend** con **React** y **Blazor**.
+- Mejorarand mis habilidades en **Desarrollo Frontend** con **React**.
 - Profundizando en **Microservicios**, **Arquitectura basada en Eventos** y técnicas de **Machine Learning** aplicadas a proyectos reales.
 
 ## 📢 Conecta conmigo
