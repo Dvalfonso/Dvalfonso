@@ -14,7 +14,7 @@ Soy un **desarrollador de software** apasionado por la programación y el códig
 ### [Machine Learning Galaxies Classifier](https://github.com/Proyecto-2025/Machine_Learning_Galaxyes_Classifier_Project)
 Contribui en el desarroyo de un clasificador de galaxias que utiliza técnicas de **Machine Learning**. El proyecto incluye un modelo entrenado con datos de Galaxy zoo, una API backend en **Python** y una interfaz frontend con **REACT**. Implementado como parte de un proyecto académico grupal para la materia proyecto en la **Universidad Nacional de Río Cuarto**.
 
-### [Machine Learning Galaxies Classifier](https://github.com/Dvalfonso/springboot-rbac)
+### [Secure Bank API](https://github.com/Dvalfonso/springboot-rbac)
 A secure and extensible backend API designed to simulate a banking-grade authorization system, built with modern Java technologies and best practices in authentication, data integrity, and layered architecture.
 
 ### [Api-Weather](https://github.com/dvalfonso/API-Weather)
