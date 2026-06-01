@@ -59,9 +59,3 @@ Real-time weather service built with Spring Boot and OpenWeather APIs.
 * LinkedIn: https://www.linkedin.com/in/david-alfonso-080b56121/
 * GitHub: https://github.com/Dvalfonso
 * Email: [davidalfonsook@gmail.com](mailto:davidalfonsook@gmail.com)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dvalfonso&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvalfonso&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
