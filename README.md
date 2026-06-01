@@ -1,34 +1,165 @@
-# Hola, soy David 👋
+# Hi there, I'm David Alfonso 👋
 
-Soy un **desarrollador de software** apasionado por la programación y el código abierto. Me encanta resolver problemas complejos y aprender nuevas tecnologías. Actualmente estoy trabajando en proyectos relacionados con **backend** usando **SPRINGBOOT**, **KAFKA**, **DOCKER**, y también explorando nuevas tecnologías como **Machine Learning**.
+**Software Developer | Computer Science Graduate | Backend Engineer**
 
-## 🚀 Tecnologías que domino
+I'm a software developer passionate about building scalable applications, designing clean architectures, and solving real-world problems through technology. I enjoy working on backend systems, APIs, distributed architectures, and continuously learning new technologies.
 
-- **Lenguajes**: Python, Java, JavaScript, Haskell, C
-- **Frameworks**: Spring Boot, Flask
-- **Bases de Datos**: PostgreSQL, MySQL, SQLite3
-- **Herramientas**: Git, Maven, Gradle, Docker
-- **Otros**: JWT, OAuth2, REST APIs, **Machine Learning** (TensorFlow, Pandas, NumPy, scikit-learn)
+Currently, I'm focused on **Java ecosystem development**, **Spring Boot**, **Kafka**, **Docker**, **Cloud-Native Applications**, and modern software engineering practices.
 
-## 🧑‍💻 Proyectos Destacados
-### [Machine Learning Galaxies Classifier](https://github.com/Proyecto-2025/Machine_Learning_Galaxyes_Classifier_Project)
-Contribui en el desarroyo de un clasificador de galaxias que utiliza técnicas de **Machine Learning**. El proyecto incluye un modelo entrenado con datos de Galaxy zoo, una API backend en **Python** y una interfaz frontend con **REACT**. Implementado como parte de un proyecto académico grupal para la materia proyecto en la **Universidad Nacional de Río Cuarto**.
+---
 
-### [Secure Bank API](https://github.com/Dvalfonso/springboot-rbac)
-A secure and extensible backend API designed to simulate a banking-grade authorization system, built with modern Java technologies and best practices in authentication, data integrity, and layered architecture.
+## 🎓 Education
 
-### [Api-Weather](https://github.com/dvalfonso/API-Weather)
-Desarrolle un servicio que consulta la API de OpenWeather para obtener las condiciones meteorológicas en tiempo real, implementado con **Spring Boot** y **RestTemplate**.
+**Computer Science Graduate**
+National University of Río Cuarto (UNRC)
 
-### [Browser](https://github.com/dvalfonso/Browser)
-Un pequeño browser y webscraper desarrollado con **Spring Boot**.
+---
 
-## 🌱 Actualmente Aprendiendo
+## 🚀 Tech Stack
 
-- Mejorarand mis habilidades en **Desarrollo Frontend** con **React**.
-- Profundizando en **Microservicios**, **Arquitectura basada en Eventos** y técnicas de **Machine Learning** aplicadas a proyectos reales.
+### Languages
 
-## 📢 Conecta conmigo
+* Java
+* Python
+* JavaScript
+* C
+* Haskell
+* SQL
 
-- **LinkedIn**: [David Alfonso](https://www.linkedin.com/in/david-alfonso-080b56121/)
-- **Correo**: [davidalfonsook@gmail.com](davidalfonsook@gmail.com)
+### Backend & Frameworks
+
+* Spring Boot
+* Spring Security
+* Hibernate / JPA
+* Flask
+* Sinatra
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### DevOps & Infrastructure
+
+* Docker
+* Git
+* Maven
+* Gradle
+* Linux
+* CI/CD
+
+### Architecture & Integration
+
+* REST APIs
+* JWT Authentication
+* OAuth2
+* Apache Kafka
+* Event-Driven Architecture
+* Microservices
+
+### Testing
+
+* JUnit
+* Mockito
+* Integration Testing
+
+### Machine Learning
+
+* TensorFlow
+* Pandas
+* NumPy
+* Scikit-Learn
+
+---
+
+## 🏆 Featured Projects
+
+### Secure Bank API
+
+A banking-inspired backend platform developed with modern Java technologies, featuring:
+
+* Role-Based Access Control (RBAC)
+* JWT Authentication
+* Account Management
+* Secure Transaction Flows
+* Clean Architecture
+* RESTful APIs
+* Kafka-based Event Processing
+
+🔗 https://github.com/Dvalfonso/springboot-rbac
+
+---
+
+### Veterinary Management System
+
+A SaaS-oriented platform designed for veterinary clinics.
+
+Features include:
+
+* Multi-tenant architecture
+* Employee management
+* Pet records
+* Medical histories
+* Client administration
+* Export capabilities (PDF/CSV)
+* Subscription-ready architecture
+
+---
+
+### Machine Learning Galaxies Classifier
+
+Collaborated in the development of a galaxy classification system using Machine Learning techniques.
+
+The project includes:
+
+* Model trained with Galaxy Zoo datasets
+* Python backend API
+* React frontend
+* Academic team project developed at UNRC
+
+🔗 https://github.com/Proyecto-2025/Machine_Learning_Galaxyes_Classifier_Project
+
+---
+
+### API Weather
+
+Weather service built with Spring Boot that integrates with OpenWeather APIs to provide real-time weather information.
+
+🔗 https://github.com/dvalfonso/API-Weather
+
+---
+
+### Browser
+
+A lightweight browser and web scraper built with Java and Spring Boot.
+
+🔗 https://github.com/dvalfonso/Browser
+
+---
+
+## 🌱 Currently Learning
+
+* Distributed Systems
+* Event-Driven Architectures
+* Cloud Technologies
+* Software Architecture Patterns
+* Cybersecurity Fundamentals
+
+---
+
+## 🎯 What I'm Focused On
+
+- Building backend applications with Java and Spring Boot
+- Designing scalable and secure REST APIs
+- Learning distributed systems and event-driven architectures
+- Developing real-world SaaS products
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/david-alfonso-080b56121/
+* GitHub: https://github.com/Dvalfonso
+* Email: [davidalfonsook@gmail.com](mailto:davidalfonsook@gmail.com)
+
