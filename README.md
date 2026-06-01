@@ -1,160 +1,57 @@
 # Hi there, I'm David Alfonso 👋
 
-**Software Developer | Computer Science Graduate | Backend Engineer**
+**Backend Developer | Computer Science Graduate | Java & Spring Boot**
 
-I'm a software developer passionate about building scalable applications, designing clean architectures, and solving real-world problems through technology. I enjoy working on backend systems, APIs, distributed architectures, and continuously learning new technologies.
-
-Currently, I'm focused on **Java ecosystem development**, **Spring Boot**, **Kafka**, **Docker**, **Cloud-Native Applications**, and modern software engineering practices.
-
----
-
-## 🎓 Education
-
-**Computer Science Graduate**
-National University of Río Cuarto (UNRC)
-
----
+I'm a software developer passionate about backend engineering, distributed systems, and software architecture. Currently building scalable applications with Java, Spring Boot, Kafka, and Docker.
 
 ## 🚀 Tech Stack
 
-### Languages
+**Languages:** Java, Python, JavaScript, C, Haskell, SQL
 
-* Java
-* Python
-* JavaScript
-* C
-* Haskell
-* SQL
+**Backend:** Spring Boot, Spring Security, Hibernate/JPA, Flask, Sinatra
 
-### Backend & Frameworks
+**Databases:** PostgreSQL, MySQL, SQLite
 
-* Spring Boot
-* Spring Security
-* Hibernate / JPA
-* Flask
-* Sinatra
+**Tools:** Docker, Git, Maven, Gradle, Linux
 
-### Databases
+**Architecture:** REST APIs, JWT, OAuth2, Kafka, Microservices, Event-Driven Architecture
 
-* PostgreSQL
-* MySQL
-* SQLite
-
-### DevOps & Infrastructure
-
-* Docker
-* Git
-* Maven
-* Gradle
-* Linux
-* CI/CD
-
-### Architecture & Integration
-
-* REST APIs
-* JWT Authentication
-* OAuth2
-* Apache Kafka
-* Event-Driven Architecture
-* Microservices
-
-### Testing
-
-* JUnit
-* Mockito
-* Integration Testing
-
-### Machine Learning
-
-* TensorFlow
-* Pandas
-* NumPy
-* Scikit-Learn
+**Testing:** JUnit, Mockito
 
 ---
 
 ## 🏆 Featured Projects
 
-### Secure Bank API
+### 🏦 Secure Bank API
 
-A banking-inspired backend platform developed with modern Java technologies, featuring:
-
-* Role-Based Access Control (RBAC)
-* JWT Authentication
-* Account Management
-* Secure Transaction Flows
-* Clean Architecture
-* RESTful APIs
-* Kafka-based Event Processing
+Banking-inspired backend platform featuring RBAC, JWT Authentication, Kafka integration, PostgreSQL, and REST APIs.
 
 🔗 https://github.com/Dvalfonso/springboot-rbac
 
----
+### 🐶 Veterinary Management System
 
-### Veterinary Management System
+Multi-tenant SaaS platform for veterinary clinics with employee management, pet records, medical histories, and PDF/CSV exports.
 
-A SaaS-oriented platform designed for veterinary clinics.
+### 🌌 Galaxy Classifier
 
-Features include:
-
-* Multi-tenant architecture
-* Employee management
-* Pet records
-* Medical histories
-* Client administration
-* Export capabilities (PDF/CSV)
-* Subscription-ready architecture
-
----
-
-### Machine Learning Galaxies Classifier
-
-Collaborated in the development of a galaxy classification system using Machine Learning techniques.
-
-The project includes:
-
-* Model trained with Galaxy Zoo datasets
-* Python backend API
-* React frontend
-* Academic team project developed at UNRC
+Machine Learning project using Galaxy Zoo datasets, Python, and React.
 
 🔗 https://github.com/Proyecto-2025/Machine_Learning_Galaxyes_Classifier_Project
 
----
+### 🌦️ API Weather
 
-### API Weather
-
-Weather service built with Spring Boot that integrates with OpenWeather APIs to provide real-time weather information.
+Real-time weather service built with Spring Boot and OpenWeather APIs.
 
 🔗 https://github.com/dvalfonso/API-Weather
-
----
-
-### Browser
-
-A lightweight browser and web scraper built with Java and Spring Boot.
-
-🔗 https://github.com/dvalfonso/Browser
 
 ---
 
 ## 🌱 Currently Learning
 
 * Distributed Systems
-* Event-Driven Architectures
 * Cloud Technologies
-* Software Architecture Patterns
-* Cybersecurity Fundamentals
-
----
-
-## 🎯 What I'm Focused On
-
-- Building backend applications with Java and Spring Boot
-- Designing scalable and secure REST APIs
-- Learning distributed systems and event-driven architectures
-- Developing real-world SaaS products
-
+* Software Architecture
+* Cybersecurity
 ---
 
 ## 📫 Connect With Me
@@ -163,3 +60,8 @@ A lightweight browser and web scraper built with Java and Spring Boot.
 * GitHub: https://github.com/Dvalfonso
 * Email: [davidalfonsook@gmail.com](mailto:davidalfonsook@gmail.com)
 
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dvalfonso&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvalfonso&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
